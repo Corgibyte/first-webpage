@@ -27,3 +27,12 @@ ol {
   font-family:'Courier New', Courier, monospace;
   font-size:xx-large;
 }
+
+div {
+  background-color: purple;
+}
+
+img {
+  width: 500px;
+  padding: 20px;
+}
